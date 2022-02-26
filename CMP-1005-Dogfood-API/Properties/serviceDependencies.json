@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:CMP_1005_Dogfood_APIContext"
+    }
+  }
+}
